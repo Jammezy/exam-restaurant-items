@@ -17,7 +17,7 @@
     <tr>
       <td>1</td>
       <td>Successfully creates SQLite Database through peewee with table and all required columns</td>
-      <td>10</td>
+      <td>20</td>
     </tr>
     <tr>
       <td>2</td>
